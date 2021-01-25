@@ -1,0 +1,15 @@
+/node_modules/
+/.git/
+/**/Thumbs.db
+/**/*.DS_Store
+/**/package-lock.json
+
+/.idea
+
+/.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+/.history/
